@@ -1,0 +1,23 @@
+<view class="banner">
+    <view class="banner1">
+      <image class="img" src="/img/03.jpg"></image>
+    </view>
+    <view class="banner2">
+      <view class="title">第三大街科目三昆德拉</view>
+      <view class="title1">第三大街科目三昆德拉大家萨克雷查克拉大家看了</view>
+      <view class="title2">1829观看数量     18收藏数    收藏</view>
+      <view></view>
+    </view>
+</view>
+
+<view class="banner">
+    <view class="banner1">
+      <image class="img" src="/img/03.jpg"></image>
+    </view>
+    <view class="banner2">
+      <view class="title">第三大街科目三昆德拉</view>
+      <view class="title1">第三大街科目三昆德拉大家萨克雷查克拉大家看了</view>
+      <view class="title2">1829观看数量     18收藏数    收藏</view>
+      <view></view>
+    </view>
+</view>
